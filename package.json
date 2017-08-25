@@ -1,0 +1,28 @@
+{
+  "name": "graphqlexp",
+  "version": "1.0.0",
+  "description": "solving underfetching with graphql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharmahktech/graphqlexp.git"
+  },
+  "keywords": [
+    "graphql",
+    "underfetching"
+  ],
+  "author": "HK",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.4",
+    "express-graphql": "^0.6.7",
+    "graphql": "^0.10.5"
+  },
+  "bugs": {
+    "url": "https://github.com/sharmahktech/graphqlexp/issues"
+  },
+  "homepage": "https://github.com/sharmahktech/graphqlexp#readme"
+}
